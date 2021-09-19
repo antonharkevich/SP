@@ -1,0 +1,4 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Lab14.cpp
+  Lab14.vcxproj -> D:\СП\СП\Лабы\LR14\Lab9\Debug\Lab14.exe
