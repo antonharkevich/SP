@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab9.cpp
+D:\Users\userr\Source\Repos\Lab4\Lab9.cpp(153,9): warning C4101: 'hdc': unreferenced local variable
+D:\Users\userr\Source\Repos\Lab4\Lab9.cpp(220,13): warning C4101: 'hbm': unreferenced local variable
+  Lab9.vcxproj -> D:\Users\userr\Source\Repos\Lab4\Debug\Lab9.exe

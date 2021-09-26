@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab8.cpp
+D:\Users\userr\Source\Repos\Lab3\Lab8.cpp(132,17): warning C4101: 'ps': unreferenced local variable
+D:\Users\userr\Source\Repos\Lab3\Lab8.cpp(229,19): warning C4101: 'arr': unreferenced local variable
+  Lab8.vcxproj -> D:\Users\userr\Source\Repos\Lab3\Debug\Lab8.exe
